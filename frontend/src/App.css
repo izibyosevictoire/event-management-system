@@ -1,0 +1,124 @@
+
+
+
+/* Home Page CSs */
+
+.home {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .home p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+  }
+
+
+
+  /*card buttons */
+  .card-button {
+    margin: 10px;
+  }
+  
+  .card-button-update {
+    margin: 20px;
+  }
+
+
+ 
+  
+
+/* Container styles for the form */
+.event-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  /* Form styles */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 8px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+/*  Login CSS  */
+
+.formContainer {
+
+    background: linear-gradient(-45deg, #eb6e48, #dd296e, #1ca5d7, #18d9ac);
+    background-size: 400% 400%;
+    animation: gradient 6s ease infinite;
+    background-color: #a7bcff;
+    height:  100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+
+
+.formWrapper{
+  
+    background-color:white;
+    padding: 20px 60px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+
+
+   
+  }
+
+.logo{
+    color: #5d5b8d;
+    font-weight: bold;
+    font-size: 24px;
+  
+}
+.title{
+    color: #5d5b8d;
+    font-size: 20px;
+}
+
