@@ -2,9 +2,6 @@
 # Event Management System
 
 Welcome to the Event Management System! This project allows users to perform basic event management tasks, such as creating and managing events. 
-## Video 
-
-https://github.com/animeshbarole/Event-Management-FullStack/assets/96922957/de4b42ce-88c4-4664-a81e-54eced3b6ba8
 
 ## Table of Contents
 - [Features](#features)
@@ -35,13 +32,7 @@ Before you begin, ensure you have the following dependencies installed:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-### Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/event-management.git
-````
 
 ## Usage
 ### User Registration
